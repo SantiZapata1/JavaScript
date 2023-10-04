@@ -1,0 +1,6 @@
+aprendimos:
+
+-tipos de variables
+-diferentes operadores
+-funcion prompt
+-diferentes formas de concatenacion
