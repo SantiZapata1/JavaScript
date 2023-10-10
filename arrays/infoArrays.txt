@@ -1,0 +1,1 @@
+En JavaScript, un array es un tipo de objeto que se utiliza para almacenar y organizar datos. Es una estructura de datos que te permite almacenar varios elementos en una sola variable. Los elementos en un array pueden ser de cualquier tipo de datos, como números, cadenas, objetos, funciones, otros arrays, etc
